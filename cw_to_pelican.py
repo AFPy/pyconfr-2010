@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Needs: pip install python-slugify psycopg2
+
+
 import sys
 from pathlib import Path
 from pprint import pprint
