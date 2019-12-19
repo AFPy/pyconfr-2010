@@ -10,8 +10,8 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 SSH_HOST=deb.afpy.org
 SSH_PORT=22
-SSH_USER=pyconfr2010
-SSH_TARGET_DIR=/var/www/2010.pycon.fr
+SSH_USER=pyconfr
+SSH_TARGET_DIR=/var/www/pycon.fr/2010/
 
 
 DEBUG ?= 0
